@@ -5,4 +5,4 @@ una cantidad de ingredientes extra. El cliente debe enviar un objeto DTO al serv
 una factura con el costo parcial de la hamburguesa y costo total del pedido. La factura generada es
 enviada a un servidor concurrente de facturas el cual está implementado con sockecs. Cuando llega una
 factura se notifica automáticamente a un conjunto de cocineros, los cuales previamente se deben
-registrar.
+registrar. Autores: Erika L. Camacho - Yazmin V. Gutierrez
